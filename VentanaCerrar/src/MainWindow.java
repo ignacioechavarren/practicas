@@ -8,8 +8,8 @@ public class MainWindow extends JFrame {
 
 private static final long serialVersionUID = 1L;
 	public MainWindow() {
-		setTitle("Mi primera ventana");
-		this.setSize(320, 240);
+		setTitle("Ventana 2");
+		this.setSize(640, 480);
 		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 	}
 	
