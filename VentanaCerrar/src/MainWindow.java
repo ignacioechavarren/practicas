@@ -17,7 +17,7 @@ private static final long serialVersionUID = 1L;
 	public static void main(String[] args) {
 		MainWindow mainWindow = new MainWindow();
 		mainWindow.setVisible(true);
-		System.out.println("Hola mundo");
+		System.out.println("koldo la baja");
 	
 	}
 
