@@ -11,12 +11,14 @@ private static final long serialVersionUID = 1L;
 		setTitle("Ventana 2");
 		this.setSize(640, 480);
 		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+		
 	}
 	
 	public static void main(String[] args) {
 		MainWindow mainWindow = new MainWindow();
 		mainWindow.setVisible(true);
-
+		System.out.println("Hola mundo");
+	
 	}
 
 }
